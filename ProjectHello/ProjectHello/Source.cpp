@@ -7,5 +7,6 @@ int main()
 	cout << "Hello, Jenkins\n";
 	
 	cout << "I have successfully built and run\n";
+	system("pause");
 	return 0;
 }
